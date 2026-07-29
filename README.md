@@ -1037,6 +1037,105 @@ Documentation         0.5hrs █░░░░░░░░░░░░   2%
 <br/>
 
 <!-- ============================================ -->
+<!-- LEETCODE SECTION -->
+<!-- ============================================ -->
+
+<div align="center">
+
+## 💻 LEETCODE JOURNEY
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+</div>
+
+<!-- LeetCode Badges -->
+<p align="center">
+  <a href="https://leetcode.com/u/kathirvel-p/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-100.gif" width="180" alt="100 Days Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/kathirvel-p/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-50.gif" width="180" alt="50 Days Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/kathirvel-p/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="180" alt="100 Problems Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/kathirvel-p/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="180" alt="50 Problems Badge"/>
+  </a>
+</p>
+
+<!-- LeetCode Stats Badges -->
+<p align="center">
+  <a href="https://leetcode.com/u/kathirvel-p/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://leetcode.com/u/kathirvel-p/">
+    <img src="https://img.shields.io/badge/Problems-340+-brightgreen?style=for-the-badge"/>
+  </a>
+  <a href="https://leetcode.com/u/kathirvel-p/">
+    <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk"/>
+  </a>
+  <a href="https://leetcode.com/u/kathirvel-p/">
+    <img src="https://img.shields.io/badge/Consistency-100_Days-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+
+## ⚡ LEETCODE DASHBOARD
+
+</div>
+
+<!-- LeetCode Stats Card -->
+<p align="center">
+  <a href="https://leetcode.com/u/kathirvel-p/">
+    <img src="https://leetcard.jacoblin.cool/kathirvel-p?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- LeetCode Command Center -->
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════╗
+║   ⚡ LEETCODE COMMAND CENTER         ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  🏆 340+ Problems Solved             ║
+║  🔥 Current Streak: Active           ║
+║  💯 100 Days Badge                   ║
+║  ⭐ Active Learner                   ║
+║  ☕ Java Specialist                  ║
+║  📈 Contest Participant              ║
+║  🎯 Goal → 500 Problems              ║
+║                                      ║
+╠══════════════════════════════════════╣
+║     [ View Full Profile ]            ║
+╚══════════════════════════════════════╝
+```
+
+</div>
+
+<!-- More LeetCode Badges Display -->
+<p align="center">
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-100.gif" width="160"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-50.gif" width="160"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="160"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="160"/>
+</p>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+
+<br/>
+
+<!-- ============================================ -->
 <!-- CONNECT & COLLABORATE -->
 <!-- ============================================ -->
 
